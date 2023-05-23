@@ -47,3 +47,6 @@ body{
 .active:after {
   content: "\2212";
 }
+h4{
+  color: gray;
+}
